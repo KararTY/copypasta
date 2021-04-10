@@ -1,4 +1,4 @@
 # Copypasta
 
-# Contributing
+## Contributing
 Please use Prettier :)
