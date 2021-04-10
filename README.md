@@ -1,4 +1,4 @@
 # Copypasta
 
 ## Contributing
-Please use Prettier :)
+Please use Notepad :)
